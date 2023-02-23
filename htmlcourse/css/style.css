@@ -1,0 +1,63 @@
+/* this is how to write a comment i know it's silly a little bit */ 
+/*know i'm gonna show you how to write css cod */
+/* the things that i write it before the {} i called selector */ 
+/* the selector it's the tag its self */
+
+/* know we will talk about the خصائص */
+
+/*background*/
+.one
+{ background-image: url(../imegs/download.jpeg);
+    height: 200;
+    width: 2000;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+}
+/* width and hight */
+
+
+.three{background-color:yellow;
+width: max-content;}
+
+/* marfin & padinf & border & outlier */
+.two 
+{background-color:brown;
+width: 170px;
+height: 200px;
+margin: 20px 20px ;
+padding: 20px ;
+border: solid red;
+outline: yellowgreen;}
+
+/* text propreties */
+.text{text-align: center;
+        color:red;
+    letter-spacing: 5px;
+    word-spacing: normal;
+line-height: normal;
+text-decoration: underline;
+text-transform: uppercase;
+overflow: auto;}
+
+/* font */
+
+.text2{color: darkgreen;
+text-align: center;
+letter-spacing: 5px;
+font-size: 50px;
+font-weight: bold;
+font-style: normal;}
+
+/* list */
+.list{
+    list-style: ;
+    list-style-position: inside;
+    text-align: right;
+}
+
+/* colors  rgb*/
+
+.c{width: 100px;
+    height: 100px;
+    background-color: #0f0;
+}
